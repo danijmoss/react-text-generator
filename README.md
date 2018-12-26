@@ -1,4 +1,4 @@
-#ReactJS Sample Text Generator
+# ReactJS Sample Text Generator
 
 An app that creates paragraph text with or without the HTML paragraph tag (<p>). This app was made following the [Build & Deploy A React JS Text Generator App tutorial](https://www.youtube.com/watch?v=yU5DYccb77A&t=296s) on the YouTube channel [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA).
 
